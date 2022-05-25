@@ -1,31 +1,30 @@
-# 시선집중 (SURFY) 📲
 
-- 프로젝트 기간 : 2022. 01. 04 ~ 2022. 02. 18 (약 7주)
-- 자유롭게 설문을 할 수 있는 환경과 그에 대한 당첨 보상을 통해 키오스크에 대한 관심도 상승
-- 사람들이 많이 모이는 버스 정류장의 키오스크를 활용한 설문조사 플랫폼
-- 키오스크 내 QR코드를 활용하여 모바일 기기로 설문 조사 실시 후 당첨 마일리지 수령
+
+# 시선 집중 📲
+
+&nbsp;
+
+## 소개 
+
+> 자유롭게 설문을 할 수 있는 환경과 그에 대한 당첨 보상을 통해 키오스크에 대한 관심도 상승
+>
+> 사람들이 많이 모이는 버스 정류장의 키오스크를 활용한 설문조사 플랫폼
+>
+> 키오스크 내 QR코드를 활용하여 모바일 기기로 설문 조사 실시 후 당첨 마일리지 수령
 
 &nbsp;
 
 
 
-## 목차 📄 
+## 개발 기간
 
-##### ✔ 팀 멤버
-
-##### ✔ 사용 기술
-
-##### ✔ 프로젝트 진행 기록
-
-##### ✔ 서비스 내용
-
-##### ✔ 회고
+**2022.01.10 ~ 2022.02.18 (6주)**
 
 &nbsp;
 
 
 
-## 팀 구성 👨‍👩‍👧‍👧 
+## 팀 구성  
 
 | 멤버 이름     | 멤버 역할                   | 개발 내용                                                    |
 | ------------- | :-------------------------- | ------------------------------------------------------------ |
@@ -38,7 +37,7 @@
 
 
 
-## 사용 기술 🖱 
+## 사용 기술 
 
 <img src="https://img.shields.io/badge/Backend-Node.js-yellowgreen" alt="">&nbsp;<img src="https://img.shields.io/badge/Framework-Express-lightgrey" alt="">&nbsp;<img src="https://img.shields.io/badge/Database-MariaDB-brown" alt="">&nbsp;<img src="https://img.shields.io/badge/Library-React-blue" alt="">&nbsp;<img src="https://img.shields.io/badge/Framework-MaterialUI-blue" alt="">&nbsp;<img src="https://img.shields.io/badge/Framework-Styled_Components-yellow" alt="">&nbsp;<img src="https://img.shields.io/badge/Hardware-RaspberryPi-red" alt="">
 
@@ -46,7 +45,7 @@
 
 
 
-## 프로젝트 진행 기록 ✏
+## 프로젝트 진행 기록 
 
 - #### Jira
 
@@ -72,7 +71,7 @@
 
 &nbsp;
 
-## 서비스 내용 👐
+## 서비스 내용 
 
 - #### 키오스크 화면
   
@@ -129,9 +128,9 @@
 
 
 
-## 회고 💭
+## 회고 
 
-#### 😃 배운 점 🧡
+**😃 배운 점 🧡**
 
 ✔ 프로젝트를 하면서 처음으로 Git, Jira를 활용하였다.
 
@@ -143,7 +142,7 @@
 
 &nbsp;
 
-#### 😫 힘들거나 아쉬운 점 💧
+**😫 힘들거나 아쉬운 점 💧**
 
 ✔ React를 처음 공부하면서 프로젝트를 진행하다 보니, 개발 속도가 느렸다.
 
@@ -153,7 +152,7 @@
 
 &nbsp;
 
-#### 🤔 개선할 점 🔥
+**🤔 개선할 점 🔥**
 
 ✔ Git에 대해 좀 더 공부하여 충돌을 일으키지 않고, 발생했다면 원인을 찾고 바로 해결해야 한다.
 
